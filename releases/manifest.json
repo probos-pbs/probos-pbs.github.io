@@ -1,0 +1,33 @@
+{
+    "parcels": [
+        {
+            "conflicts": "",
+            "hash": "31d6b985f1c8f77d625557ca2ceab46ba5f9f7d1",
+            "depends": "CDH",
+            "parcelName": "ProBoS-0.2.12-SNAPSHOT-el6.parcel",
+            "components": [
+                {
+                    "pkg_version": "0.2.12-SNAPSHOT",
+                    "version": "0.2.12-SNAPSHOT",
+                    "name": "ProBoS",
+                    "pkg_release": "0.2.12-SNAPSHOT"
+                }
+            ]
+        },
+        {
+            "conflicts": "",
+            "hash": "31d6b985f1c8f77d625557ca2ceab46ba5f9f7d1",
+            "depends": "CDH",
+            "parcelName": "ProBoS-0.2.12-SNAPSHOT-el7.parcel",
+            "components": [
+                {
+                    "pkg_version": "0.2.12-SNAPSHOT",
+                    "version": "0.2.12-SNAPSHOT",
+                    "name": "ProBoS",
+                    "pkg_release": "0.2.12-SNAPSHOT"
+                }
+            ]
+        }
+    ],
+    "lastUpdated": 1473266855263
+}
